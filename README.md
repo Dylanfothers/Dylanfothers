@@ -1,5 +1,5 @@
 # About Me:
-2nd year student studying computer science at University of Stirling<br>
+# 2nd year student studying computer science at University of Stirling<br>
 
 
 ## Socials:
