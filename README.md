@@ -1,5 +1,5 @@
 # About Me:
-###3rd year Computer Science student studying at University of Stirling instructed in cloud,devops and automation <br>
+### 3rd year Computer Science student studying at University of Stirling instructed in cloud,devops and automation <br>
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Dylandrf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-fotheringham-519254307/) 
